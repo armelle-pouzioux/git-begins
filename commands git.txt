@@ -1,4 +1,6 @@
 git command
 git add .
 git commit -
-fit push
+git push
+git checkout -b
+git switch -b
