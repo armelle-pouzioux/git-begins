@@ -1,0 +1,4 @@
+git command
+git add .
+git commit -
+fit push
